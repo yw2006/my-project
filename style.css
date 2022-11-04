@@ -1,4 +1,17 @@
 body
 {
-    background-color: burlywood;
+    
+    background-image: linear-gradient(to right,red,black);
+    
+}
+.tab1
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+.border1
+{
+    border: 5px dashed ;
+    border-radius: 20px;
+    background-image: repeating-radial-gradient(red 10% ,black 20%,blue 40%);
 }

@@ -1,0 +1,105 @@
+body
+{
+    background-color: aqua;
+}
+
+.form1
+{
+    width: 600px;
+    background-color:white;
+    margin:  0px 200px 200px 200px;  
+}
+h1
+{
+    width: 600px;
+    background-color:black;
+    margin:  200px 200px 0px 200px;  
+    border: 0;
+    text-align: center;
+    color: white;
+}
+h1:hover
+{
+    color: black;
+    background-color: blue;
+    cursor: pointer;
+}
+label
+{
+    margin: 5px
+
+}
+.in1
+{
+    margin: 10px;
+    padding: 5px;
+    border-radius: 20px;
+    border: solid;
+}
+.in2
+{
+    margin: 10px 30px 10px 10px;
+    padding: 5px;
+    border-radius: 20px;
+    border: solid;
+}
+.in3
+{
+    width: 90%;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 20px;
+    border: solid;
+}
+.in4
+{
+    width: 90%;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 20px;
+    border: solid;
+}
+.in5
+{
+    width: 90%;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 20px;
+    border: solid;
+}
+.labsel1
+{
+    margin: 10px;
+    display: inline;
+}
+.select1
+{
+    margin: 10px;
+    display: inline;
+    border-radius: 20px;
+    border: solid;
+}
+.labsel2
+{
+    margin: 10px 10px 10px 120px;
+    display: inline;
+    
+}
+.select2
+{
+    margin: 10px;
+    display: inline;
+    border-radius: 20px;
+    border: solid;
+}
+.sub1
+{
+    width: 50px;
+    border-radius: 20px;
+    border: solid; 
+    margin: 10px;
+    background-color: brown;
+}
+
+
+
